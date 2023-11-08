@@ -2,10 +2,10 @@
 garment store annual report 
 
 #sample insights
-1.women  are more likely to nuy compared to men (~65%)
-2.maharastra ,karnataka,and uttar pradesh are the top 3 states (~35%)
-3.the adult age group (30-49 yrs)is max contributing (~50%)
-4.amazon .flipkart,and myntra channels are max contributing(~80%)
+1.Women are more likely to buy compared to men (approximately 65%).
+2.Maharashtra, Karnataka, and Uttar Pradesh are the top three states (approximately 35%).
+3.The adult age group (30-49 years) is contributing the most (around 50%).
+4.Amazon, Flipkart, and Myntra channels are contributing the most (approximately 80%)."
 
 #FINAL CONCLUSION TO IMPROVE VRINDA STORE SALES 
 TARGET WOMEN  CUSTOMERS OF THE AGE GROUP (30-49 YRS)
